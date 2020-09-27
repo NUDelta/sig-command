@@ -1,3 +1,5 @@
+# see https://github.com/NUDelta/sig-command/tree/main (git push origin2)
+
 from django.shortcuts import render
 from django.http import HttpResponse
 
