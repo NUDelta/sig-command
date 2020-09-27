@@ -10,7 +10,6 @@
     "abbreviation": "ARS",
     "sig_time": "",
     "students": [
-      "Natalie Ghidali",
       "Aimee van den Berg",
       "Olivia Gallagher"
     ],
@@ -23,7 +22,6 @@
         },
         "project_name": "Skill Tracking and Development",
         "students": [
-          "Natalie Ghidali",
           "Aimee van den Berg"
         ]
       },
@@ -66,7 +64,6 @@
     "sig_time": "",
     "students": [
       "Nina Cong",
-      "David Lee",
       "Mason Lin",
       "Zachary Cmiel"
     ],
@@ -79,8 +76,7 @@
         },
         "project_name": "Collective Narrative",
         "students": [
-          "Nina Cong",
-          "David Lee"
+          "Nina Cong"
         ]
       },
       {
@@ -110,7 +106,6 @@
     "students": [
       "Caryl Henry",
       " Ariella Silver",
-      "Tommy McHugh",
       "Kieran Bondy"
     ],
     "projects": [
@@ -134,7 +129,6 @@
         },
         "project_name": "Orchestration Scripting Envrionment",
         "students": [
-          "Tommy McHugh",
           "Kieran Bondy"
         ]
       }
@@ -164,7 +158,7 @@
           "Practical Research Canvas": "",
           "Research Research Canvas": ""
         },
-        "project_name": "Leesha",
+        "project_name": "Leesha Proj",
         "students": [
           "Leesha Maliakal"
         ]
@@ -175,7 +169,7 @@
           "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
           "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU"
         },
-        "project_name": "Gobi",
+        "project_name": "Gobi Proj",
         "students": [
           "Gobi Dasu"
         ]
@@ -186,7 +180,7 @@
           "Practical Research Canvas": "https://drive.google.com/open?id=1lmpdK9cCOWNC12uYrac3IO4H5PsIyqjays2cIBKGhZs",
           "Research Research Canvas": "https://drive.google.com/open?id=1PSbJVHn65yoJLRnLqc1y8gDXhOTZyI-ys3Pf4HJRqCQ"
         },
-        "project_name": "Ryan",
+        "project_name": "Ryan Proj",
         "students": [
           "Ryan Louie"
         ]
@@ -197,7 +191,7 @@
           "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
           "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw"
         },
-        "project_name": "Kapil",
+        "project_name": "Kapil Proj",
         "students": [
           "Kapil Garg"
         ]
@@ -208,7 +202,7 @@
           "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0/edit#gid=913011565",
           "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA/edit#gid=1679523502"
         },
-        "project_name": "Harrison",
+        "project_name": "Harrison Proj",
         "students": [
           "Harrison Kwik"
         ]
