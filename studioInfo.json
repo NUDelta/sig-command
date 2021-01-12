@@ -1,225 +1,203 @@
 [
-  {
-    "sig_heads": [
-      "Leesha Maliakal"
-    ],
-    "faculty_mentors": [
-      "Haoqi Zhang"
-    ],
-    "name": "Agile Research Studios",
-    "abbreviation": "ARS",
-    "sig_time": "",
-    "students": [
-      "Aimee van den Berg",
-      "Olivia Gallagher"
-    ],
-    "projects": [
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/10SG_GYbadrp4DSZ_AEFeVvBLV6CTkNFymuh1woWgi0c/edit",
-          "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/11yeSKEUrocbcHeuG3Hl2PcRiAFb-jomDY8cFOvs4rVI/edit#gid=1977062248",
-          "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1qe6X_0in0SAtzjYIpYOEFe3D2h9qWMnxJStN4_xearA/edit#gid=293844242"
-        },
-        "project_name": "Skill Tracking and Development",
+    {
+        "name": "Agile Research Studios",
+        "abbreviation": "ARS",
+        "sig_time": "",
+        "sig_heads": [
+            "Leesha Maliakal"
+        ],
+        "faculty_mentors": [
+            "Haoqi Zhang"
+        ],
         "students": [
-          "Aimee van den Berg"
+            "Aimee van den Berg",
+            "Ariella Silver",
+            "Neha Sharma",
+            "Molly Pribble"
+        ],
+        "projects": [
+            {
+                "project_name": "Skill Tracking and Development",
+                "students": [
+                    "Aimee van den Berg",
+                    "Ariella Silver"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1SZhG5CKjICZFmfHxuWXxop0Oebo4bweomqLk-w7Z8CA/edit",
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/11yeSKEUrocbcHeuG3Hl2PcRiAFb-jomDY8cFOvs4rVI/edit#gid=1977062248",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1qe6X_0in0SAtzjYIpYOEFe3D2h9qWMnxJStN4_xearA/edit#gid=293844242"
+                }
+            },
+            {
+                "project_name": "Metacognitive Reflection",
+                "students": [
+                    "Neha Sharma",
+                    "Molly Pribble"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1hHgYLgp0uRYq-UekrPzi9uabiSDSk_0jb5g-JqIQ2fc/edit",
+                    "Practical Research Canvas": "https://drive.google.com/open?id=1MbFsifXBCZYVAYuidRf53YdAB_4WLT_WjvAts9ah8go",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk"
+                }
+            }
         ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1iaQpQ73RUx0q0G2tf4UkEr9JcVIhpor02BD4CmwCsDs/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=1MbFsifXBCZYVAYuidRf53YdAB_4WLT_WjvAts9ah8go",
-          "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk"
-        },
-        "project_name": "Metacognitive Reflection",
+    },
+    {
+        "name": "Readily Available Learning Experiences",
+        "abbreviation": "RALE",
+        "sig_time": "NA",
+        "sig_heads": [
+            "Gobi Dasu"
+        ],
+        "faculty_mentors": [
+            "Haoqi Zhang",
+            "Nell O'Rourke"
+        ],
+        "students": [],
+        "projects": []
+    },
+    {
+        "name": "Collective Experiences",
+        "abbreviation": "CE",
+        "sig_time": "",
+        "sig_heads": [
+            "Ryan Louie"
+        ],
+        "faculty_mentors": [
+            "Haoqi Zhang"
+        ],
         "students": [
-          "Olivia Gallagher"
+            "Nina Cong",
+            "Kevin Cheng",
+            "Mason Lin",
+            "Grace Wainaina"
+        ],
+        "projects": [
+            {
+                "project_name": "Collective Narrative",
+                "students": [
+                    "Nina Cong",
+                    "Kevin Cheng"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1ICsZ7IJcC5B7e3JStYSjXLzbrZ6FHy0HnsUB3B6bKOw/edit",
+                    "Practical Research Canvas": "https://drive.google.com/open?id=17hX5RsIaMQ1JA-rM0k0Jl6hZxCFk-KYvfTyxbD97pLk",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1Z57Y7R7ZswKRyuHE1gLceWbXnd3oi7IV_M5Zq5Dl8us"
+                }
+            },
+            {
+                "project_name": "Collective Experience for Relationship Development",
+                "students": [
+                    "Mason Lin",
+                    "Grace Wainaina"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1T4kX0ig2csGMS2OxBAo50o69PYJqSep5tnt0CymR26U/edit",
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1xSgBIinyC2_eC_A5rVqqekSC6ep2KolBSI-5qVouhBc/edit#gid=1977062248",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1YaD-nCgZ1te9ndCuJq3UIxgtbCp8ZzUw1nA3aWLRmGM/edit#gid=293844242"
+                }
+            }
         ]
-      }
-    ]
-  },
-  {
-    "sig_heads": [
-      "Gobi Dasu"
-    ],
-    "faculty_mentors": [
-      "Haoqi Zhang",
-      "Nell O'Rourke"
-    ],
-    "name": "Readily Available Learning Experiences",
-    "abbreviation": "RALE",
-    "sig_time": "",
-    "students": [],
-    "projects": []
-  },
-  {
-    "sig_heads": [
-      "Ryan Louie"
-    ],
-    "faculty_mentors": [
-      "Haoqi Zhang"
-    ],
-    "name": "Collective Experiences",
-    "abbreviation": "CE",
-    "sig_time": "",
-    "students": [
-      "Nina Cong",
-      "Mason Lin",
-      "Zachary Cmiel"
-    ],
-    "projects": [
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1GwgimsbN5xYzzE2-TfWREpYNq_KJTr3iG4JzDW02BNM/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=17hX5RsIaMQ1JA-rM0k0Jl6hZxCFk-KYvfTyxbD97pLk",
-          "Research Research Canvas": "https://drive.google.com/open?id=1Z57Y7R7ZswKRyuHE1gLceWbXnd3oi7IV_M5Zq5Dl8us"
-        },
-        "project_name": "Collective Narrative",
+    },
+    {
+        "name": "Breaking Boundaries",
+        "abbreviation": "BB",
+        "sig_time": "NA",
+        "sig_heads": [
+            "Kapil Garg"
+        ],
+        "faculty_mentors": [
+            "Haoqi Zhang"
+        ],
+        "students": [],
+        "projects": []
+    },
+    {
+        "name": "Summer BBQ",
+        "abbreviation": "BBQ",
+        "sig_time": "",
+        "sig_heads": [
+            "Haoqi Zhang"
+        ],
+        "faculty_mentors": [
+            "Haoqi Zhang"
+        ],
         "students": [
-          "Nina Cong"
+            "Leesha Maliakal",
+            "Gobi Dasu",
+            "Ryan Louie",
+            "Kapil Garg",
+            "Harrison Kwik"
+        ],
+        "projects": [
+            {
+                "project_name": "Leesha Proj",
+                "students": [
+                    "Leesha Maliakal"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/10zvHMNB0C1T-nR1p-BqeVgCbY31qIe1EVLyRn0yW-94/edit",
+                    "Practical Research Canvas": "",
+                    "Research Research Canvas": ""
+                }
+            },
+            {
+                "project_name": "Gobi Proj",
+                "students": [
+                    "Gobi Dasu"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EwYtB9UCVYVyd68ReUUUuq_M5z0vwi1OaOuWboZRcEs/edit",
+                    "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU"
+                }
+            },
+            {
+                "project_name": "Ryan Proj",
+                "students": [
+                    "Ryan Louie"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1vqV2bbqRD58cFN6tRZFnCI9LXCTlpvreHBO4RDH9cCg/edit",
+                    "Practical Research Canvas": "https://drive.google.com/open?id=1lmpdK9cCOWNC12uYrac3IO4H5PsIyqjays2cIBKGhZs",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1PSbJVHn65yoJLRnLqc1y8gDXhOTZyI-ys3Pf4HJRqCQ"
+                }
+            },
+            {
+                "project_name": "Kapil Proj",
+                "students": [
+                    "Kapil Garg"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1vOYm1F9obMd7dGxA1WcUaqjWO8840GLxW9E5t_jH7LA/edit",
+                    "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw"
+                }
+            },
+            {
+                "project_name": "Harrison Proj",
+                "students": [
+                    "Harrison Kwik"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1nd7Tkn3vDlKbUCFwrwhYW_eyX12qrg5mHzd3BiCsCbU/edit",
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0/edit#gid=913011565",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA/edit#gid=1679523502"
+                }
+            }
         ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1tzCm7strckHVdyUjlcckkHEKbOGTP5UUH6STfz0fUck/edit",
-          "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1xSgBIinyC2_eC_A5rVqqekSC6ep2KolBSI-5qVouhBc/edit#gid=1977062248",
-          "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1YaD-nCgZ1te9ndCuJq3UIxgtbCp8ZzUw1nA3aWLRmGM/edit#gid=293844242"
-        },
-        "project_name": "Collective Experience for Relationship Development",
-        "students": [
-          "Mason Lin",
-          "Zachary Cmiel"
-        ]
-      }
-    ]
-  },
-  {
-    "sig_heads": [
-      "Kapil Garg"
-    ],
-    "faculty_mentors": [
-      "Haoqi Zhang"
-    ],
-    "name": "Breaking Boundaries",
-    "abbreviation": "BB",
-    "sig_time": "",
-    "students": [
-      "Caryl Henry",
-      " Ariella Silver",
-      "Kieran Bondy"
-    ],
-    "projects": [
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1RO4WPrEvU5GAaoxeDWheXITDpHG8LkclTHpP2bKW9ts/edit",
-          "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1-oWcXhMW7G7v3PaNhJWvlQovgDPLpWcKUOjYuZujdog/edit#gid=1977062248",
-          "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1Qad2HQ290kC975K5c38aHzbdNcU8Ezy3DrjkLM6Ctkw/edit#gid=293844242"
-        },
-        "project_name": "Regulation Devices",
-        "students": [
-          "Caryl Henry",
-          " Ariella Silver"
-        ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1qxlkjEWuMXSpEZLOtQVw1IKO95k7f5QFWTeYpXlIeF4/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=12N4JyjYp5OS1qN7fGMPnSa3N99GGfoMga6CKXklg6OY",
-          "Research Research Canvas": "https://drive.google.com/open?id=17mJRl5Esj4csdALdFJOfBgK-7zWNub85i0CAQHj6wDA"
-        },
-        "project_name": "Orchestration Scripting Envrionment",
-        "students": [
-          "Kieran Bondy"
-        ]
-      }
-    ]
-  },
-  {
-    "sig_heads": [
-      "Haoqi Zhang"
-    ],
-    "faculty_mentors": [
-      "Haoqi Zhang"
-    ],
-    "name": "Summer BBQ",
-    "abbreviation": "BBQ",
-    "sig_time": "",
-    "students": [
-      "Leesha Maliakal",
-      "Gobi Dasu",
-      "Ryan Louie",
-      "Kapil Garg",
-      "Harrison Kwik"
-    ],
-    "projects": [
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1ksm-3YpO-bvFcMye5sDMsCY0Xr8GVXB6KZCO6YDyh20/edit",
-          "Practical Research Canvas": "",
-          "Research Research Canvas": ""
-        },
-        "project_name": "Leesha Proj",
-        "students": [
-          "Leesha Maliakal"
-        ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1U8DrMwJVkWly9ZHG4PUHjoKHSp5nF6qeSEaYP3hFIQ8/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
-          "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU"
-        },
-        "project_name": "Gobi Proj",
-        "students": [
-          "Gobi Dasu"
-        ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1nX1_f37Q2LClsll92_GVrZUZK0ColF8xWOCBseywRgI/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=1lmpdK9cCOWNC12uYrac3IO4H5PsIyqjays2cIBKGhZs",
-          "Research Research Canvas": "https://drive.google.com/open?id=1PSbJVHn65yoJLRnLqc1y8gDXhOTZyI-ys3Pf4HJRqCQ"
-        },
-        "project_name": "Ryan Proj",
-        "students": [
-          "Ryan Louie"
-        ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1ipemrrOoVN5k5XtppiyT9FI12YotyUcqdoe84kbgZVo/edit",
-          "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
-          "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw"
-        },
-        "project_name": "Kapil Proj",
-        "students": [
-          "Kapil Garg"
-        ]
-      },
-      {
-        "documents": {
-          "Sprint Log": "https://docs.google.com/spreadsheets/d/1-NZVc24ga51vkHoWz96vfqiMRUvhsbwiF2AyVBtz9ls/edit",
-          "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0/edit#gid=913011565",
-          "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA/edit#gid=1679523502"
-        },
-        "project_name": "Harrison Proj",
-        "students": [
-          "Harrison Kwik"
-        ]
-      }
-    ]
-  },
-  {
-    "sig_heads": [
-      "Nell O'Rourke"
-    ],
-    "faculty_mentors": [
-      "Nell O'Rourke"
-    ],
-    "name": "Summer Beach",
-    "abbreviation": "BEACH",
-    "sig_time": "",
-    "students": [],
-    "projects": []
-  }
+    },
+    {
+        "name": "Summer Beach",
+        "abbreviation": "BEACH",
+        "sig_time": "",
+        "sig_heads": [
+            "Nell O'Rourke"
+        ],
+        "faculty_mentors": [
+            "Nell O'Rourke"
+        ],
+        "students": [],
+        "projects": []
+    }
 ]
