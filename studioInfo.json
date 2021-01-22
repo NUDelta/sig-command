@@ -2,7 +2,8 @@
     {
         "name": "Agile Research Studios",
         "abbreviation": "ARS",
-        "sig_time": "",
+        "sig_time": "Wednesdays 2:00 - 3:00p",
+        "sig_oh_time": "NA",
         "sig_heads": [
             "Leesha Maliakal"
         ],
@@ -46,6 +47,7 @@
         "name": "Readily Available Learning Experiences",
         "abbreviation": "RALE",
         "sig_time": "NA",
+        "sig_oh_time": "NA",
         "sig_heads": [
             "Gobi Dasu"
         ],
@@ -59,7 +61,8 @@
     {
         "name": "Collective Experiences",
         "abbreviation": "CE",
-        "sig_time": "",
+        "sig_time": "Wednesdays 5:30 - 6:30p",
+        "sig_oh_time": "Monday 4:30p; Tuesday 3:00p",
         "sig_heads": [
             "Ryan Louie"
         ],
@@ -103,6 +106,7 @@
         "name": "Breaking Boundaries",
         "abbreviation": "BB",
         "sig_time": "NA",
+        "sig_oh_time": "NA",
         "sig_heads": [
             "Kapil Garg"
         ],
@@ -115,7 +119,8 @@
     {
         "name": "Summer BBQ",
         "abbreviation": "BBQ",
-        "sig_time": "",
+        "sig_time": "Fridays 3:30 - 4:30p",
+        "sig_oh_time": "NA",
         "sig_heads": [
             "Haoqi Zhang"
         ],
@@ -131,14 +136,14 @@
         ],
         "projects": [
             {
-                "project_name": "Leesha Proj",
+                "project_name": "Polaris++",
                 "students": [
                     "Leesha Maliakal"
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/10zvHMNB0C1T-nR1p-BqeVgCbY31qIe1EVLyRn0yW-94/edit",
-                    "Practical Research Canvas": "",
-                    "Research Research Canvas": ""
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1apyb1ObioQ6lHM6ogRW4hY155jD3TmnQW_pu1sMtmNM/edit#gid=1977062248",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/19ng_K2O8JBatRTuw87FAp003MiwE5uUBuf2pR0nMZwk/edit#gid=293844242"
                 }
             },
             {
@@ -159,8 +164,8 @@
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1vqV2bbqRD58cFN6tRZFnCI9LXCTlpvreHBO4RDH9cCg/edit",
-                    "Practical Research Canvas": "https://drive.google.com/open?id=1lmpdK9cCOWNC12uYrac3IO4H5PsIyqjays2cIBKGhZs",
-                    "Research Research Canvas": "https://drive.google.com/open?id=1PSbJVHn65yoJLRnLqc1y8gDXhOTZyI-ys3Pf4HJRqCQ"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1461r8ONyFJBOrGpVpGQm2PBnUJW7iRMwGRH438ce0m8/edit#gid=1230843102",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S18R4i0kTWxr0mDIKqINo8rxnRb7cMGdBxbrRJEJlqI/edit#gid=2132628985"
                 }
             },
             {
@@ -190,7 +195,8 @@
     {
         "name": "Summer Beach",
         "abbreviation": "BEACH",
-        "sig_time": "",
+        "sig_time": "Thursdays 3:00 - 4:00p",
+        "sig_oh_time": "NA",
         "sig_heads": [
             "Nell O'Rourke"
         ],
