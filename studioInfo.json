@@ -58,7 +58,6 @@
         "students": [
             "Roxy Wilcox",
             "Ava Robinson",
-            "Natalie Brewster",
             "Jonathan Liu"
         ],
         "projects": [
@@ -77,7 +76,6 @@
             {
                 "project_name": "Scaffolded Exercises",
                 "students": [
-                    "Natalie Brewster",
                     "Jonathan Liu"
                 ],
                 "documents": {
