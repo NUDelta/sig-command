@@ -11,32 +11,18 @@
             "Haoqi Zhang"
         ],
         "students": [
-            "Aimee van den Berg",
-            "Ariella Silver",
-            "Neha Sharma",
+            "Isaac Miller",
             "Molly Pribble"
         ],
         "projects": [
             {
-                "project_name": "Skill Tracking and Development",
-                "students": [
-                    "Aimee van den Berg",
-                    "Ariella Silver"
-                ],
-                "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EYGvN_SWUmniL7K3M_0m5YwB7ha78pA0gFkdbU0G-00/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/11yeSKEUrocbcHeuG3Hl2PcRiAFb-jomDY8cFOvs4rVI",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1qe6X_0in0SAtzjYIpYOEFe3D2h9qWMnxJStN4_xearA"
-                }
-            },
-            {
                 "project_name": "Metacognitive Reflection",
                 "students": [
-                    "Neha Sharma",
+                    "Isaac Miller",
                     "Molly Pribble"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/185jutyp_NsSdSe4qspZU_mPJhDLJlM6BkUwxTyaA9RM/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1qyFSd0kcLsFw0_FsyDUk0go9ua5qz1y_ElKfDdWqoS0/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1MbFsifXBCZYVAYuidRf53YdAB_4WLT_WjvAts9ah8go",
                     "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk"
                 }
@@ -58,8 +44,8 @@
         "students": [
             "Roxy Wilcox",
             "Fardeem Munir",
-            "Jonathan Liu",
-            "Natalie Brewster"
+            "Natalie Brewster",
+            "Jonathan Liu"
         ],
         "projects": [
             {
@@ -69,7 +55,7 @@
                     "Fardeem Munir"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1E7_Tmg8QofkBesalycgcGVF42kpyznQS8YBksPjh3UU/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1yA_GSz9WaYRr7np18raRWquLbM2oCJcDi3rjnkPovhw/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1czEFCtvh7Itqe669uu7bQ_8_2Hj4zqV3ZpJUu3RIN_w",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1f-1Z9ZmohgRd4YrmS5g2-QLxP3eaezr3NSxJ6P7CZuc"
                 }
@@ -77,11 +63,11 @@
             {
                 "project_name": "Scaffolded Exercises",
                 "students": [
-                    "Jonathan Liu",
-                    "Natalie Brewster"
+                    "Natalie Brewster",
+                    "Jonathan Liu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1olDVlv06Axe5dl8kHepIwyukWbKQq_5BqmzTSqZ6hkk/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1hFM-88Mk1qdmIq2E0lo76HGz_BEuns5Ug9rmWCfw4HQ/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1ZoYrKLKkgrUuXQ9Ns-peqZ3pbGc89wwNHUimZAkSx9I",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1lIWJ4H0IRoUErOWMZw8oe2R96SI_ljzNIANEi6skIOI"
                 }
@@ -100,17 +86,20 @@
             "Haoqi Zhang"
         ],
         "students": [
-            "Jenny Chang",
+            "Parveen Dhanoa",
+            "Richard Lam",
+            "Yvan Chu",
             "Cindy Hu"
         ],
         "projects": [
             {
                 "project_name": "Collective Narrative",
                 "students": [
-                    "Jenny Chang"
+                    "Parveen Dhanoa",
+                    "Richard Lam"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/15mJysoYtY0KzHnJ5aZFVvp984B6o4i2IcjUPKuJu6lQ/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EuPW13DP2ICBDn9U9MC5m8Xv0FX1Y0FUi85KSkJdcvQ/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1c-6jxYv8SH4lS_nAFGSZt831l0rkbcYRkUzxJI71kzw/edit?usp=sharing",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1-fd_Ub3FMGyU5YTI8Tn1pBoCy9vQaFLGnWv-E_yqq74/edit?usp=sharing"
                 }
@@ -118,10 +107,11 @@
             {
                 "project_name": "Collective Experience for Relationship Development",
                 "students": [
+                    "Yvan Chu",
                     "Cindy Hu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/19xYZ0N3-95M2UAZS7wEpDTgl2yTykv_dtvP_1q3R9Mk/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1LUfLfWzEpiFuaTyYvxzbKq7U6KeyP5i-M9KIPZd1rMA/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/175kb67T4KR1yb3Kk9Ig7BSWEYsbWMAmipOXeR1Upp54/edit?usp=sharing",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1rxprKNeiNwy8aomwYCBT9C5I5lBNwbtJtrILgdmBJZM/edit?usp=sharing"
                 }
@@ -140,11 +130,22 @@
             "Haoqi Zhang"
         ],
         "students": [
+            "Sydney Smith",
             "Jason Friedman",
-            "Hang Yin",
-            "Charlotte Jones"
+            "Hang Yin"
         ],
         "projects": [
+            {
+                "project_name": "Interactive SOAP Notes",
+                "students": [
+                    "Sydney Smith"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1RcJOJ2g_fexlZMhQi8U-oW7iJJhjhOeqCsAx5GyATLY/edit",
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1svJA9ch1oUjeAB-dyeBgp_EULp8zALkaMLOdaWQ_yyQ/edit?usp=sharing",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1jRkTGwsDZA_xO0C1-QkvOIwYAJ7j0eK35tPQ6VGEats/edit?usp=sharing"
+                }
+            },
             {
                 "project_name": "Orchestration Scripting Environments",
                 "students": [
@@ -152,20 +153,9 @@
                     "Hang Yin"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1vOPJdKos7Fr44n-88AFGTEWYCKQW6LaudLZ-ycphS60/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/17Gj3ApXxZ7fv556kg5CIq8gr16wcz_kaNW1JJ_tbCTE/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1IYDaFNGJFuAD2LyVP2XM1QMLiz-WKeqxeJ51syZUai0",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1QrhTA2vDjvfaXG25Leq1apjkTFqXiPqYRR3pkwffgBk"
-                }
-            },
-            {
-                "project_name": "Interactive SOAP Notes",
-                "students": [
-                    "Charlotte Jones"
-                ],
-                "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/14eMig8lZUq3NechcgloXE4n5qDtlD6oZFSIcV51o2YI/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1svJA9ch1oUjeAB-dyeBgp_EULp8zALkaMLOdaWQ_yyQ",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1jRkTGwsDZA_xO0C1-QkvOIwYAJ7j0eK35tPQ6VGEats"
                 }
             }
         ]
@@ -183,16 +173,18 @@
             "Nell O'Rourke"
         ],
         "students": [
+            "Justin Shi",
             "Izzy Chun"
         ],
         "projects": [
             {
                 "project_name": "Q&A Buddy",
                 "students": [
+                    "Justin Shi",
                     "Izzy Chun"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1-D8Twi75Crpn-hstXHAvElwe57wMM3skWm_Yzsu-_lo/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1ye_2ImTEfuw6ydJxn5AZqpcIdp_EHuFbAY8Z7OiJWVI/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1VvcAGNRtZOsTsBP8GzW91B34C1nAKloJukdHcJBVRh0/edit?usp=sharing",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S8LWFvVgJQUSXGXcCceJy_HcoTFinzvyLzUnkCkDzro/edit?usp=sharing"
                 }
@@ -224,7 +216,7 @@
                     "Leesha Maliakal Shah"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1XNo7DbPyrmZlesXBxzBeF49J2iyujiuKIOTDtW-kX3I/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1KLblnxzicyUascGzBI_-E5GsKqlrQxrhE3pdkXU8woI/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1apyb1ObioQ6lHM6ogRW4hY155jD3TmnQW_pu1sMtmNM",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/19ng_K2O8JBatRTuw87FAp003MiwE5uUBuf2pR0nMZwk"
                 }
@@ -235,7 +227,7 @@
                     "Gobi Dasu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1X2bbBcfEVHAidWlT07o8m3cqUCN3_G39RiB0rLhdERQ/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/13Fg3tZmKDzGqfTwTujIkI6z86z-IuuDBqh4vmKqLtUI/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
                     "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU"
                 }
@@ -246,7 +238,7 @@
                     "Ryan Louie"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1rBKCotp5ne1W5pSmlEfiWVHhOcHYVrSOqm7rgM50blE/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1gM_v1pl3el7O9m3fc_UKMbM27ncmd1MosJIJoh-5oF0/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1461r8ONyFJBOrGpVpGQm2PBnUJW7iRMwGRH438ce0m8",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S18R4i0kTWxr0mDIKqINo8rxnRb7cMGdBxbrRJEJlqI"
                 }
@@ -257,7 +249,7 @@
                     "Kapil Garg"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1coFGynFYkPHo9YLRHxSt-ty_hGqQMmCp7y4fL_BHWfQ/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1V9viRZDgfapTOAu8ZrqAYs0ZezwrZG9MAlEb7LP1Jsg/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
                     "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw"
                 }
@@ -268,7 +260,7 @@
                     "Harrison Kwik"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1zh7byK4wW_PMUpI8UmHNyqJHqv0k_D_NaT7zdZv9kXg/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/12qIcDoXiAAZgt91iGTnfGjj7SZVIC3Ofr3ONnQRsTFk/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA"
                 }
