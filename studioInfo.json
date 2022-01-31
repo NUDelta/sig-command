@@ -2,8 +2,8 @@
     {
         "name": "Agile Research Studios",
         "abbreviation": "ARS",
-        "sig_time": "NA",
-        "sig_oh_time": "NA",
+        "sig_time": "Monday 12:30pm - 1:00pm",
+        "sig_oh_time": "Monday 12:30pm - 1:00pm",
         "sig_heads": [
             "Leesha Maliakal Shah"
         ],
@@ -16,15 +16,16 @@
         ],
         "projects": [
             {
-                "project_name": "Metacognitive Reflection",
+                "project_name": "MindYoga",
                 "students": [
                     "Isaac Miller",
                     "Molly Pribble"
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1qyFSd0kcLsFw0_FsyDUk0go9ua5qz1y_ElKfDdWqoS0/edit",
-                    "Practical Research Canvas": "https://drive.google.com/open?id=1MbFsifXBCZYVAYuidRf53YdAB_4WLT_WjvAts9ah8go",
-                    "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1jVm0CJb_PCW4S_rNHfIfQfa0NziRd_RH_PyhsXiTOYU",
+                    "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=721483239"
                 }
             }
         ]
@@ -32,7 +33,7 @@
     {
         "name": "Readily Available Learning Experiences",
         "abbreviation": "RALE",
-        "sig_time": "NA",
+        "sig_time": "Thursday 1:00pm - 2:00pm",
         "sig_oh_time": "NA",
         "sig_heads": [
             "Gobi Dasu"
@@ -57,7 +58,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1yA_GSz9WaYRr7np18raRWquLbM2oCJcDi3rjnkPovhw/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1czEFCtvh7Itqe669uu7bQ_8_2Hj4zqV3ZpJUu3RIN_w",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1f-1Z9ZmohgRd4YrmS5g2-QLxP3eaezr3NSxJ6P7CZuc"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1f-1Z9ZmohgRd4YrmS5g2-QLxP3eaezr3NSxJ6P7CZuc",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=688946449"
                 }
             },
             {
@@ -69,7 +71,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1hFM-88Mk1qdmIq2E0lo76HGz_BEuns5Ug9rmWCfw4HQ/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1ZoYrKLKkgrUuXQ9Ns-peqZ3pbGc89wwNHUimZAkSx9I",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1lIWJ4H0IRoUErOWMZw8oe2R96SI_ljzNIANEi6skIOI"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1lIWJ4H0IRoUErOWMZw8oe2R96SI_ljzNIANEi6skIOI",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=322364574"
                 }
             }
         ]
@@ -77,8 +80,8 @@
     {
         "name": "Collective Experiences",
         "abbreviation": "CE",
-        "sig_time": "NA",
-        "sig_oh_time": "NA",
+        "sig_time": "Thursday 4:00pm - 5:00pm",
+        "sig_oh_time": "Tuesday 4:00pm - 4:30pm (CE); Wednesday 3:00pm - 3:30pm (CN)",
         "sig_heads": [
             "Ryan Louie"
         ],
@@ -100,20 +103,22 @@
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1EuPW13DP2ICBDn9U9MC5m8Xv0FX1Y0FUi85KSkJdcvQ/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1c-6jxYv8SH4lS_nAFGSZt831l0rkbcYRkUzxJI71kzw/edit?usp=sharing",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1-fd_Ub3FMGyU5YTI8Tn1pBoCy9vQaFLGnWv-E_yqq74/edit?usp=sharing"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1c-6jxYv8SH4lS_nAFGSZt831l0rkbcYRkUzxJI71kzw",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1-fd_Ub3FMGyU5YTI8Tn1pBoCy9vQaFLGnWv-E_yqq74/edit?usp=sharing",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=137719131"
                 }
             },
             {
-                "project_name": "Collective Experience for Relationship Development",
+                "project_name": "CE for Relationship Development",
                 "students": [
                     "Yvan Chu",
                     "Cindy Hu"
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1LUfLfWzEpiFuaTyYvxzbKq7U6KeyP5i-M9KIPZd1rMA/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/175kb67T4KR1yb3Kk9Ig7BSWEYsbWMAmipOXeR1Upp54/edit?usp=sharing",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1rxprKNeiNwy8aomwYCBT9C5I5lBNwbtJtrILgdmBJZM/edit?usp=sharing"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/175kb67T4KR1yb3Kk9Ig7BSWEYsbWMAmipOXeR1Upp54",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1rxprKNeiNwy8aomwYCBT9C5I5lBNwbtJtrILgdmBJZM/edit?usp=sharing",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1642466033"
                 }
             }
         ]
@@ -121,8 +126,8 @@
     {
         "name": "Networked Orchestration Technologies",
         "abbreviation": "NOT",
-        "sig_time": "NA",
-        "sig_oh_time": "NA",
+        "sig_time": "Wednesday 2:00pm - 3:00pm",
+        "sig_oh_time": "Monday 2:00pm - 3:00pm",
         "sig_heads": [
             "Kapil Garg"
         ],
@@ -142,8 +147,9 @@
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1RcJOJ2g_fexlZMhQi8U-oW7iJJhjhOeqCsAx5GyATLY/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1svJA9ch1oUjeAB-dyeBgp_EULp8zALkaMLOdaWQ_yyQ/edit?usp=sharing",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1jRkTGwsDZA_xO0C1-QkvOIwYAJ7j0eK35tPQ6VGEats/edit?usp=sharing"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1svJA9ch1oUjeAB-dyeBgp_EULp8zALkaMLOdaWQ_yyQ",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1jRkTGwsDZA_xO0C1-QkvOIwYAJ7j0eK35tPQ6VGEats/edit?usp=sharing",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=525935756"
                 }
             },
             {
@@ -155,7 +161,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/17Gj3ApXxZ7fv556kg5CIq8gr16wcz_kaNW1JJ_tbCTE/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1IYDaFNGJFuAD2LyVP2XM1QMLiz-WKeqxeJ51syZUai0",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1QrhTA2vDjvfaXG25Leq1apjkTFqXiPqYRR3pkwffgBk"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1QrhTA2vDjvfaXG25Leq1apjkTFqXiPqYRR3pkwffgBk",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=343662495"
                 }
             }
         ]
@@ -163,8 +170,8 @@
     {
         "name": "Context-Aware Metacognitive Practice",
         "abbreviation": "CAMP",
-        "sig_time": "NA",
-        "sig_oh_time": "NA",
+        "sig_time": "Thursday 1:00pm - 2:00pm",
+        "sig_oh_time": "Friday 11:00am - 1:00pm",
         "sig_heads": [
             "Harrison Kwik"
         ],
@@ -185,8 +192,9 @@
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1ye_2ImTEfuw6ydJxn5AZqpcIdp_EHuFbAY8Z7OiJWVI/edit",
-                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1VvcAGNRtZOsTsBP8GzW91B34C1nAKloJukdHcJBVRh0/edit?usp=sharing",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S8LWFvVgJQUSXGXcCceJy_HcoTFinzvyLzUnkCkDzro/edit?usp=sharing"
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1AYjhKD10ElHVUKjMtmjW1HFbjQ4Y4TdBpvSMDf_30T0/edit#gid=1977062248",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1OsHIXeKpoC4hddkhdFXl6r-Zi_NC0OhgwR8s19ZXyn0/edit#gid=293844242",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=177836298"
                 }
             }
         ]
@@ -194,7 +202,7 @@
     {
         "name": "Summer BBQ",
         "abbreviation": "BBQ",
-        "sig_time": "NA",
+        "sig_time": "Monday 10:00am - 11:00am",
         "sig_oh_time": "NA",
         "sig_heads": [
             "Haoqi Zhang"
@@ -211,14 +219,15 @@
         ],
         "projects": [
             {
-                "project_name": "Compass",
+                "project_name": "Leesha Proj (Compass)",
                 "students": [
                     "Leesha Maliakal Shah"
                 ],
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1KLblnxzicyUascGzBI_-E5GsKqlrQxrhE3pdkXU8woI/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1apyb1ObioQ6lHM6ogRW4hY155jD3TmnQW_pu1sMtmNM",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/19ng_K2O8JBatRTuw87FAp003MiwE5uUBuf2pR0nMZwk"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/19ng_K2O8JBatRTuw87FAp003MiwE5uUBuf2pR0nMZwk",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=568367919"
                 }
             },
             {
@@ -229,7 +238,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/13Fg3tZmKDzGqfTwTujIkI6z86z-IuuDBqh4vmKqLtUI/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
-                    "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU"
+                    "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1775404605"
                 }
             },
             {
@@ -240,7 +250,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1gM_v1pl3el7O9m3fc_UKMbM27ncmd1MosJIJoh-5oF0/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1461r8ONyFJBOrGpVpGQm2PBnUJW7iRMwGRH438ce0m8",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S18R4i0kTWxr0mDIKqINo8rxnRb7cMGdBxbrRJEJlqI"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S18R4i0kTWxr0mDIKqINo8rxnRb7cMGdBxbrRJEJlqI",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=2012530558"
                 }
             },
             {
@@ -251,7 +262,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/1V9viRZDgfapTOAu8ZrqAYs0ZezwrZG9MAlEb7LP1Jsg/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
-                    "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw"
+                    "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1385527396"
                 }
             },
             {
@@ -262,7 +274,8 @@
                 "documents": {
                     "Sprint Log": "https://docs.google.com/spreadsheets/d/12qIcDoXiAAZgt91iGTnfGjj7SZVIC3Ofr3ONnQRsTFk/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0",
-                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA"
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA",
+                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=135479073"
                 }
             }
         ]

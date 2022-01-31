@@ -42,6 +42,11 @@ def index(request):
             content += " - " + student
         content += "*\n"
 
+        # Compass
+        if project['documents']['Compass'].strip():
+            content += "Compass:\n"
+            content += project['documents']['Compass'] + "\n"
+
         # Sprint Log
         if project['documents']['Sprint Log'].strip():
             content += "Sprint Log:\n"
