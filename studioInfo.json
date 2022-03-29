@@ -2,8 +2,8 @@
     {
         "name": "Agile Research Studios",
         "abbreviation": "ARS",
-        "sig_time": "Monday 12:30pm - 1:00pm",
-        "sig_oh_time": "Monday 12:30pm - 1:00pm",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Leesha Maliakal Shah"
         ],
@@ -11,21 +11,19 @@
             "Haoqi Zhang"
         ],
         "students": [
-            "Isaac Miller",
             "Molly Pribble"
         ],
         "projects": [
             {
                 "project_name": "MindYoga",
                 "students": [
-                    "Isaac Miller",
                     "Molly Pribble"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1qyFSd0kcLsFw0_FsyDUk0go9ua5qz1y_ElKfDdWqoS0/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1r9AtM6-lFRH5xrV4p-WCpkkdITGEIu4KWfj9hSmO1vU/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1jVm0CJb_PCW4S_rNHfIfQfa0NziRd_RH_PyhsXiTOYU",
                     "Research Research Canvas": "https://drive.google.com/open?id=1gNmz7qrErWcS12QGF1wD13rFY8tLGtIH9YPftZUg6Wk",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=721483239"
+                    "Compass": ""
                 }
             }
         ]
@@ -33,8 +31,8 @@
     {
         "name": "Readily Available Learning Experiences",
         "abbreviation": "RALE",
-        "sig_time": "Thursday 1:00pm - 2:00pm",
-        "sig_oh_time": "NA",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Gobi Dasu"
         ],
@@ -43,36 +41,32 @@
             "Nell O'Rourke"
         ],
         "students": [
-            "Roxy Wilcox",
-            "Fardeem Munir",
-            "Natalie Brewster",
+            "Alexandra Andreiu",
             "Jonathan Liu"
         ],
         "projects": [
             {
                 "project_name": "Knowledge Maps",
                 "students": [
-                    "Roxy Wilcox",
-                    "Fardeem Munir"
+                    "Alexandra Andreiu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1yA_GSz9WaYRr7np18raRWquLbM2oCJcDi3rjnkPovhw/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/13W6yKY7lQGiq4k0zRJk9U0SPO4rTgjzcWf58oEY_nFo/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1czEFCtvh7Itqe669uu7bQ_8_2Hj4zqV3ZpJUu3RIN_w",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1f-1Z9ZmohgRd4YrmS5g2-QLxP3eaezr3NSxJ6P7CZuc",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=688946449"
+                    "Compass": ""
                 }
             },
             {
                 "project_name": "Scaffolded Exercises",
                 "students": [
-                    "Natalie Brewster",
                     "Jonathan Liu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1hFM-88Mk1qdmIq2E0lo76HGz_BEuns5Ug9rmWCfw4HQ/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1UqYMu2dvSGt1mF6sQO7Rs6FDKy2RzA6vlChWRnPXD-c/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1ZoYrKLKkgrUuXQ9Ns-peqZ3pbGc89wwNHUimZAkSx9I",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1lIWJ4H0IRoUErOWMZw8oe2R96SI_ljzNIANEi6skIOI",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=322364574"
+                    "Compass": ""
                 }
             }
         ]
@@ -80,8 +74,8 @@
     {
         "name": "Collective Experiences",
         "abbreviation": "CE",
-        "sig_time": "Thursday 4:00pm - 5:00pm",
-        "sig_oh_time": "Tuesday 4:00pm - 4:30pm (CE); Wednesday 3:00pm - 3:30pm (CN)",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Ryan Louie"
         ],
@@ -102,10 +96,10 @@
                     "Richard Lam"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EuPW13DP2ICBDn9U9MC5m8Xv0FX1Y0FUi85KSkJdcvQ/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EcWC7kYu6spaiNiI8B6QRW1vjRc8QNpUj-RHPefJ4W8/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1c-6jxYv8SH4lS_nAFGSZt831l0rkbcYRkUzxJI71kzw",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1-fd_Ub3FMGyU5YTI8Tn1pBoCy9vQaFLGnWv-E_yqq74/edit?usp=sharing",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=137719131"
+                    "Compass": ""
                 }
             },
             {
@@ -115,10 +109,10 @@
                     "Cindy Hu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1LUfLfWzEpiFuaTyYvxzbKq7U6KeyP5i-M9KIPZd1rMA/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/17c7oqn_XI0dyUpCBsezqsf5z1Fgj2VLgY21i05Jkolg/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/175kb67T4KR1yb3Kk9Ig7BSWEYsbWMAmipOXeR1Upp54",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1rxprKNeiNwy8aomwYCBT9C5I5lBNwbtJtrILgdmBJZM/edit?usp=sharing",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1642466033"
+                    "Compass": ""
                 }
             }
         ]
@@ -126,8 +120,8 @@
     {
         "name": "Networked Orchestration Technologies",
         "abbreviation": "NOT",
-        "sig_time": "Wednesday 2:00pm - 3:00pm",
-        "sig_oh_time": "Monday 2:00pm - 3:00pm",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Kapil Garg"
         ],
@@ -146,10 +140,10 @@
                     "Sydney Smith"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1RcJOJ2g_fexlZMhQi8U-oW7iJJhjhOeqCsAx5GyATLY/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1A-QgKiFlVx5uYkjYW63FYJp_H6mTxvK72dRtNG8QOlg/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1svJA9ch1oUjeAB-dyeBgp_EULp8zALkaMLOdaWQ_yyQ",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1jRkTGwsDZA_xO0C1-QkvOIwYAJ7j0eK35tPQ6VGEats/edit?usp=sharing",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=525935756"
+                    "Compass": ""
                 }
             },
             {
@@ -159,10 +153,10 @@
                     "Hang Yin"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/17Gj3ApXxZ7fv556kg5CIq8gr16wcz_kaNW1JJ_tbCTE/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1G4I0NjFOQIBgA4LLvWYj_1fKhlpOoDl9B5hVLlTtcZ4/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1IYDaFNGJFuAD2LyVP2XM1QMLiz-WKeqxeJ51syZUai0",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1QrhTA2vDjvfaXG25Leq1apjkTFqXiPqYRR3pkwffgBk",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=343662495"
+                    "Compass": ""
                 }
             }
         ]
@@ -170,8 +164,8 @@
     {
         "name": "Context-Aware Metacognitive Practice",
         "abbreviation": "CAMP",
-        "sig_time": "Thursday 1:00pm - 2:00pm",
-        "sig_oh_time": "Friday 11:00am - 1:00pm",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Harrison Kwik"
         ],
@@ -180,21 +174,32 @@
             "Nell O'Rourke"
         ],
         "students": [
-            "Justin Shi",
-            "Izzy Chun"
+            "Lauren Bichelmeir",
+            "Amy Guo"
         ],
         "projects": [
             {
-                "project_name": "Q&A Buddy",
+                "project_name": "Cardinal",
                 "students": [
-                    "Justin Shi",
-                    "Izzy Chun"
+                    "Lauren Bichelmeir"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1ye_2ImTEfuw6ydJxn5AZqpcIdp_EHuFbAY8Z7OiJWVI/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1Rp4ObUSWQ_dgsjhkLDGVGqXLQKrWenPQhTKiLlxC69o/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1AYjhKD10ElHVUKjMtmjW1HFbjQ4Y4TdBpvSMDf_30T0/edit#gid=1977062248",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1OsHIXeKpoC4hddkhdFXl6r-Zi_NC0OhgwR8s19ZXyn0/edit#gid=293844242",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=177836298"
+                    "Compass": ""
+                }
+            },
+            {
+                "project_name": "Path",
+                "students": [
+                    "Amy Guo"
+                ],
+                "documents": {
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1hOi4OFvwdsv58jJTJLuJy7xVfd-SRtx9t6lFKWGVM28/edit",
+                    "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1ezRwGGN_pSvAlxa6FK9zdy9B1F_oX8ECBXKDSVDTMRU/edit?usp=sharing",
+                    "Research Research Canvas": "https://docs.google.com/spreadsheets/d/11HPks7WPD_TSW-3pF4FI1FyOp0M6Pv4wumoNVYNw9CQ/edit?usp=sharing",
+                    "Compass": ""
                 }
             }
         ]
@@ -202,8 +207,8 @@
     {
         "name": "Summer BBQ",
         "abbreviation": "BBQ",
-        "sig_time": "Monday 10:00am - 11:00am",
-        "sig_oh_time": "NA",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Haoqi Zhang"
         ],
@@ -224,10 +229,10 @@
                     "Leesha Maliakal Shah"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1KLblnxzicyUascGzBI_-E5GsKqlrQxrhE3pdkXU8woI/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/13U6rnHdFmcFbdpegEwkpBSYzp1XUQRAANOZAIdZrvnk/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1apyb1ObioQ6lHM6ogRW4hY155jD3TmnQW_pu1sMtmNM",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/19ng_K2O8JBatRTuw87FAp003MiwE5uUBuf2pR0nMZwk",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=568367919"
+                    "Compass": ""
                 }
             },
             {
@@ -236,10 +241,10 @@
                     "Gobi Dasu"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/13Fg3tZmKDzGqfTwTujIkI6z86z-IuuDBqh4vmKqLtUI/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1JFdask4LNkLizrm1ZTGPm12nwzJlBHKDZzFC3h7TrXo/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1_O1qhO9muiFK1YsU5w4_fcA4WjrpCvgjQ3fmmr5jueQ",
                     "Research Research Canvas": "https://drive.google.com/open?id=1wbFHCqBLBC4737IDeY-Z-GMIqX3pqquw3y3H5tSMChU",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1775404605"
+                    "Compass": ""
                 }
             },
             {
@@ -248,10 +253,10 @@
                     "Ryan Louie"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1gM_v1pl3el7O9m3fc_UKMbM27ncmd1MosJIJoh-5oF0/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1EHxAQaz8X9TPvLnE5X0lhFTd1VkFoqbd4R8f_Fggcio/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1461r8ONyFJBOrGpVpGQm2PBnUJW7iRMwGRH438ce0m8",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1S18R4i0kTWxr0mDIKqINo8rxnRb7cMGdBxbrRJEJlqI",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=2012530558"
+                    "Compass": ""
                 }
             },
             {
@@ -260,10 +265,10 @@
                     "Kapil Garg"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1V9viRZDgfapTOAu8ZrqAYs0ZezwrZG9MAlEb7LP1Jsg/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/102i3L9N1Vh5EE0G4ffu5GOK4OXA8E3RtvtD6AcZmstM/edit",
                     "Practical Research Canvas": "https://drive.google.com/open?id=1wDWcmQ06Ir5d3nRuM-v7TavdrNuuUkPzrRApQ0xhIF8",
                     "Research Research Canvas": "https://drive.google.com/open?id=1V5cbxOdwk73ilzjK67gH8ebc2FDUpl_GESZClKCWRhw",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=1385527396"
+                    "Compass": ""
                 }
             },
             {
@@ -272,10 +277,10 @@
                     "Harrison Kwik"
                 ],
                 "documents": {
-                    "Sprint Log": "https://docs.google.com/spreadsheets/d/12qIcDoXiAAZgt91iGTnfGjj7SZVIC3Ofr3ONnQRsTFk/edit",
+                    "Sprint Log": "https://docs.google.com/spreadsheets/d/1_3EO7VwPAtyIv74bEc_EfuaQa02mG66xPmNfFl_tjHg/edit",
                     "Practical Research Canvas": "https://docs.google.com/spreadsheets/d/1mazre24O1nqvQlhDBE9k99za3Z4gaGDXu5Bu2Qs_vt0",
                     "Research Research Canvas": "https://docs.google.com/spreadsheets/d/1nUFP757tbZBZmBCtOB0VwHGGos6e9gbs7qHfHvLXCJA",
-                    "Compass": "https://docs.google.com/spreadsheets/d/1bC6TxIg-857Iei846vPSvq1G4ZJCdvx3H7qhn3yUXns/edit#gid=135479073"
+                    "Compass": ""
                 }
             }
         ]
@@ -283,8 +288,8 @@
     {
         "name": "Summer Beach",
         "abbreviation": "BEACH",
-        "sig_time": "NA",
-        "sig_oh_time": "NA",
+        "sig_time": "",
+        "sig_oh_time": "",
         "sig_heads": [
             "Nell O'Rourke"
         ],
